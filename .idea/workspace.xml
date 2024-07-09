@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d99bc48f-2cb9-41e7-9336-b154175e835b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/job.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataProcess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_c++.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_java.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_python.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_产品经理.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_前端开发.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_数据分析.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_数据开发.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_数据挖掘.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_硬件开发.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_算法.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processed_运维.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soupExample.html" afterDir="false" />
-    </list>
+    <list default="true" id="d99bc48f-2cb9-41e7-9336-b154175e835b" name="Changes" comment="GetData and DataProcess" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LeonnelTang/JobMarketAnalysis.git",
+    "accountId": "a81093b9-18fc-4812-82c1-2ae5cdd4e842"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -203,8 +187,17 @@
       <workItem from="1720364404010" duration="5887000" />
       <workItem from="1720396938873" duration="12022000" />
       <workItem from="1720419404884" duration="2617000" />
-      <workItem from="1720509516082" duration="5311000" />
+      <workItem from="1720509516082" duration="5611000" />
     </task>
+    <task id="LOCAL-00001" summary="GetData and DataProcess">
+      <option name="closed" value="true" />
+      <created>1720515066044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720515066044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +216,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="GetData and DataProcess" />
+    <option name="LAST_COMMIT_MESSAGE" value="GetData and DataProcess" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
