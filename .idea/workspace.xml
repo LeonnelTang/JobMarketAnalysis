@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d99bc48f-2cb9-41e7-9336-b154175e835b" name="Changes" comment="GetData and DataProcess" />
+    <list default="true" id="d99bc48f-2cb9-41e7-9336-b154175e835b" name="Changes" comment="push originCsv directory">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataVisualization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GetShanghaiShapefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimHei.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/c++职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/java职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/python职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/shanghai_heatmap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/互联网热门职位的平均年薪.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/互联网行业的薪资分布.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/产品经理职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/前端开发职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/学历要求分布.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/工作经验要求分布.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/数据分析职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/数据开发职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/数据挖掘职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/硬件开发职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/算法职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VisualizedData/运维职位的技能要求关键词频统计.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/combined_processed_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/location_cache.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataProcess.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataProcess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_c++.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_c++.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_java.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_java.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_python.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_python.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_产品经理.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_产品经理.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_前端开发.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_前端开发.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_数据分析.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_数据分析.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_数据开发.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_数据开发.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_数据挖掘.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_数据挖掘.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_硬件开发.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_硬件开发.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_算法.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_算法.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processedCsv/processed_运维.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processedCsv/processed_运维.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/soupExample.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,18 +60,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "LeonnelTang"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LeonnelTang&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LeonnelTang/JobMarketAnalysis.git",
-    "accountId": "a81093b9-18fc-4812-82c1-2ae5cdd4e842"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LeonnelTang/JobMarketAnalysis.git&quot;,
+    &quot;accountId&quot;: &quot;a81093b9-18fc-4812-82c1-2ae5cdd4e842&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 1
@@ -51,14 +90,17 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "JavaScript Debug.soup.html.executor": "Debug",
     "Python.DataProcess.executor": "Run",
+    "Python.DataVisualization.executor": "Run",
     "Python.GetData (1).executor": "Run",
     "Python.data.executor": "Run",
     "Python.datatest2.executor": "Debug",
     "Python.main.executor": "Run",
     "Python.salaryTest.executor": "Debug",
+    "Python.test.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "database.data.extractors.current.export.id": "SQL Inserts",
-    "database.data.extractors.current.id": "SQL Inserts",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "database.data.extractors.current.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -69,7 +111,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.DataProcess">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\python_project\Job\job" />
+      <recent name="D:\python\python_project\Job\job\processedCsv" />
+      <recent name="D:\python\python_project\Job\job\originCsv" />
+    </key>
+  </component>
+  <component name="RunManager">
     <configuration name="soupExample.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/job/soupExample.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -88,6 +137,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataProcess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataVisualization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="job" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataVisualization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,6 +239,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.DataVisualization" />
         <item itemvalue="Python.DataProcess" />
         <item itemvalue="Python.GetData (1)" />
         <item itemvalue="Python.GetData" />
@@ -193,7 +266,12 @@
       <workItem from="1720364404010" duration="5887000" />
       <workItem from="1720396938873" duration="12022000" />
       <workItem from="1720419404884" duration="2617000" />
-      <workItem from="1720509516082" duration="5611000" />
+      <workItem from="1720509516082" duration="7148000" />
+      <workItem from="1720538776447" duration="19608000" />
+      <workItem from="1720598620226" duration="12634000" />
+      <workItem from="1720690210773" duration="13586000" />
+      <workItem from="1720774056698" duration="749000" />
+      <workItem from="1720791465576" duration="6656000" />
     </task>
     <task id="LOCAL-00001" summary="GetData and DataProcess">
       <option name="closed" value="true" />
@@ -203,7 +281,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720515066044</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="move directory">
+      <option name="closed" value="true" />
+      <created>1720515386986</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720515386986</updated>
+    </task>
+    <task id="LOCAL-00003" summary="push originCsv directory">
+      <option name="closed" value="true" />
+      <created>1720515527683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720515527683</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +317,9 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="GetData and DataProcess" />
-    <option name="LAST_COMMIT_MESSAGE" value="GetData and DataProcess" />
+    <MESSAGE value="move directory" />
+    <MESSAGE value="push originCsv directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="push originCsv directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -232,6 +328,16 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/DataVisualization.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="150" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -242,11 +348,18 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="combined_df" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/job$GetData__1_.coverage" NAME="GetData (1) Coverage Results" MODIFIED="1720408385090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/job$DataVisualization.coverage" NAME="DataVisualization Coverage Results" MODIFIED="1720793773148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/job$datatest2.coverage" NAME="datatest2 Coverage Results" MODIFIED="1720403771316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/job$DataProcess.coverage" NAME="DataProcess Coverage Results" MODIFIED="1720514619003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/job$DataProcess.coverage" NAME="DataProcess Coverage Results" MODIFIED="1720541016095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/job$test.coverage" NAME="test Coverage Results" MODIFIED="1720793566371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/job$data.coverage" NAME="data Coverage Results" MODIFIED="1720407795923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/job$main.coverage" NAME="main Coverage Results" MODIFIED="1720364532113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/job$salaryTest.coverage" NAME="salaryTest Coverage Results" MODIFIED="1720511892479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
